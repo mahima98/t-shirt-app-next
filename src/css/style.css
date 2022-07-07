@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  background-color: palegoldenrod;
+}
+
+nav div {
+  padding: 20px 40px;
+  font-size: 20px;
+}
+
+nav div:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

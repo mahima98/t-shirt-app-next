@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Header from "./Header";
+import "../src/css/style.css";
 
 export default function HomePage() {
   const names = ["Ada Lovelace", "Grace Hopper", "Margaret Hamilton"];
